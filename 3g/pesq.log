@@ -1,0 +1,13 @@
+RomARS PESQ evaluation tool v1.2 ©
+
+TX WAV file: ../demo-congrats.wav rate = 8 kHz duration = 26.276 s
+RX WAV file: 3g.wav rate = 8 kHz duration = 25.758 s
+Start measure at 2.0 s with a maximum range of 7.0 s
+Skip first 4.0 s of TX WAV file
+Narrowband PESQ score - before alignment and cut: 3.3985
+Signals offset: 0.9764 s - extracting 7.000 s
+TX RMS value: 0.432 - RX RMS value: 0.211
+Narrowband PESQ score - after alignment and cut: 4.0342
+Averaged PESQ with 15 different offsets: 4.01949
+Max PESQ value measured: 4.0926
+Min PESQ value measured: 3.8680
