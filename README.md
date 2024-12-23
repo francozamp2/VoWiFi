@@ -1,7 +1,7 @@
 # VoWiFi2024
 Reference audio samples for the paper: Access Network requirements for 3GPP Voice over Wi-Fi (VoWiFi) service.
 
-FOr the perofmance evaluation and network requirements identification, we have implemented a testbed using real HW and using the Wi-Fi Calling services of a real MNO, as in figure.
+For the performance evaluation and network requirements identification, we have implemented a testbed using real HW and using the Wi-Fi Calling services of a real MNO, as in figure.
 
 <img src="trials.png" width="500">
 
